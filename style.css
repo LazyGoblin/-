@@ -1,0 +1,38 @@
+body {
+	background: url(pic/header.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'PT Serif', serif;
+	color: #ffffff;
+}
+
+hr {
+    margin: 20px auto;
+    color: #D32F2F;
+    border: 3px solid #D32F2F;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	border-width: 5px;
+}
+
+.btn-xl {
+	padding: 1 rem 2 rem;
+}
+
+.buffer {
+	margin-top: 3rem;
+}
